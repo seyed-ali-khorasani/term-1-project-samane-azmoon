@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(113,12): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(471,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(525,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(544,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(496,62): warning C4101: 'a': unreferenced local variable
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(601,10): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(602,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(586,8): warning C4101: 'result': unreferenced local variable
+D:\visual studio\projects\پروژه\پروژه\Source.cpp(76): warning C4717: 'login': recursive on all control paths, function will cause runtime stack overflow
+  پروژه.vcxproj -> D:\visual studio\projects\پروژه\پروژه\Debug\پروژه.exe
